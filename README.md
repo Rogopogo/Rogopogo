@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rogopogo
+- 👀 I’m interested in python, unity, java
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me 1seredyuk.artem1@gmail.com
